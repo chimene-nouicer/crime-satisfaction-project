@@ -14,6 +14,6 @@ Ce projet explore le lien entre les crimes financiers (fraude, corruption, blanc
 
 ## Fichiers
 - `rapport.html` : rapport rendu
-- `code.rdm` : projet RStudio
+- `code.rmd` : projet RStudio
 
 Projet réalisé en binôme avec Chimène NOUICER dans le cadre du Master DS2E.
