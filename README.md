@@ -13,7 +13,7 @@ Ce projet explore le lien entre les crimes financiers (fraude, corruption, blanc
 - **Méthodes** : régression linéaire, ACP, tests de diagnostic
 
 ## Fichiers
-- `crime-satisfaction-report.html` : rapport rendu
-- `crime-satisfaction-project.Rproj` : projet RStudio
+- `rapport.html` : rapport rendu
+- `code.rdm` : projet RStudio
 
 Projet réalisé en binôme avec Chimène NOUICER dans le cadre du Master DS2E.
