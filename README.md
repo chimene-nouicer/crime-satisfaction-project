@@ -2,17 +2,17 @@
 
 Ce projet explore le lien entre les crimes financiers (fraude, corruption, blanchiment) et la satisfaction de vie dans différents pays.
 
-## 🔍 Objectifs
+## Objectifs
 - Nettoyer et structurer les données
 - Réaliser des analyses descriptives
 - Estimer des modèles linéaires
 - Tester les hypothèses et la robustesse
 
-## 🛠️ Outils
+## Outils
 - **R** : tidyverse, lmtest, car, texreg
 - **Méthodes** : régression linéaire, ACP, tests de diagnostic
 
-## 📁 Fichiers
+## Fichiers
 - `crime-satisfaction-report.html` : rapport rendu
 - `crime-satisfaction-project.Rproj` : projet RStudio
 
