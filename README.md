@@ -1,19 +1,23 @@
-# Crime & Satisfaction — Projet d'Économétrie (M1 DS2E)
+# Crime & Life Satisfaction — Econometrics Project (M1 DS2E)
 
-Ce projet explore le lien entre les crimes financiers (fraude, corruption, blanchiment) et la satisfaction de vie dans différents pays.
+This project investigates the relationship between financial crimes (fraud, corruption, money laundering) and life satisfaction across countries. The analysis combines data cleaning, descriptive statistics, econometric modeling, and diagnostic testing to produce interpretable and robust insights.
 
-## Objectifs
-- Nettoyer et structurer les données
-- Réaliser des analyses descriptives
-- Estimer des modèles linéaires
-- Tester les hypothèses et la robustesse
+## Objectives
+- Clean and structure the dataset  
+- Conduct descriptive and exploratory analyses  
+- Estimate linear regression models  
+- Perform hypothesis and robustness tests  
 
-## Outils
-- **R** : tidyverse, lmtest, car, texreg
-- **Méthodes** : régression linéaire, ACP, tests de diagnostic
+## Methods & Tools
+- **R packages**: tidyverse, lmtest, car, texreg  
+- **Techniques**: linear regression, PCA, diagnostic tests  
 
-## Fichiers
-- `rapport.html` : rapport rendu
-- `code.rmd` : projet RStudio
+## Files
+- `rapport.html` — Final report  
+- `code.rmd` — R Markdown analysis
 
-Projet réalisé en binôme avec Chimène NOUICER dans le cadre du Master DS2E.
+SINANAJ Venera
+Master’s student in Data Science (DS2E)
+
+This project is part of an ongoing learning process and may evolve over time.
+
