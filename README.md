@@ -1,4 +1,4 @@
-# Crime & Life Satisfaction — Econometrics Project (M1 DS2E)
+# Crime & Life Satisfaction — Econometrics Project
 
 This project investigates the relationship between financial crimes (fraud, corruption, money laundering) and life satisfaction across countries. The analysis combines data cleaning, descriptive statistics, econometric modeling, and diagnostic testing to produce interpretable and robust insights.
 
