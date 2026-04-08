@@ -16,8 +16,8 @@ This project investigates the relationship between financial crimes (fraud, corr
 - `rapport.html` — Final report  
 - `code.rmd` — R Markdown analysis
 
-SINANAJ Venera
-Master’s student in Data Science (DS2E)
+SINANAJ Venera & NOUICER Chimène
+Master’s students in Data Science (DS2E)
 
 This project is part of an ongoing learning process and may evolve over time.
 
